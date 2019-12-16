@@ -1,1 +1,2 @@
-Source code cannot be uploaded for obvious reasons - check the wiki
+Source code cannot be uploaded for obvious reasons.
+Please check the Wiki.
